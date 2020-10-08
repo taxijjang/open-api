@@ -1,0 +1,15 @@
+__pycache__
+.idea
+
+*.pyc
+*.pyo
+*.orig
+
+/config/settings/settings.py
+/config/settings/settings_develop.py
+/config/settings/settings_service.py
+
+/temp
+/test
+/venv
+/logs
